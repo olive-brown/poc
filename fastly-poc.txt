@@ -1,0 +1,4 @@
+OLIVE SECURITY RESEARCH
+FASTLY CONFIGURATION TEST
+Researcher: Olive
+Environment: Personal Lab
